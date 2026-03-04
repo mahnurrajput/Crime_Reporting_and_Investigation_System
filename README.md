@@ -123,8 +123,8 @@ The system demonstrates:
 ## 📩 Contact
 
 **Mahnoor Naveed**  
-📧 mahnoornaveed2405@gmail.com  
-🔗 LinkedIn  
+📧 Email: [mahnoornaveed2405@gmail.com](mailto:mahnoornaveed2405@gmail.com)  
+🔗 LinkedIn: [View Profile](https://www.linkedin.com/in/mahnoorrrajput/)
 
 ---
 
