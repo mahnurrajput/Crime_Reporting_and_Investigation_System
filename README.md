@@ -5,7 +5,7 @@ Intel Crime Nexus is a desktop-based crime reporting and investigation platform 
 
 Built using **C# WinForms (.NET Framework)** and **SQL Server**, the system integrates software engineering principles with intelligent analytics mechanisms to simulate a scalable digital crime management environment.
 
-🎓 **4th Semester Software Engineering Project**  
+🎓 **4th Semester Fundamentals Software Engineering Project**  
 FAST NUCES – 2025  
 
 ---
@@ -112,7 +112,6 @@ The system demonstrates:
 ---
 
 ## 👩‍💻 Development Team  
-**FAST NUCES – Software Engineering**
 
 - Mahnoor Naveed  
 - Fatima Riaz  
