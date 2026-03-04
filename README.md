@@ -1,146 +1,132 @@
-🕵️ Intel Crime Nexus
-Intelligence-Driven Crime Reporting & Investigation System
+# 🕵️ Intel Crime Nexus  
+## Intelligence-Driven Crime Reporting & Investigation System  
 
 Intel Crime Nexus is a desktop-based crime reporting and investigation platform engineered to streamline law enforcement workflows through structured reporting, intelligent case management, and analytical crime insights.
 
-Built using C# WinForms and SQL Server, the system integrates data analytics concepts with real-world investigation processes to simulate a scalable digital crime management environment.
+Built using **C# WinForms (.NET Framework)** and **SQL Server**, the system integrates software engineering principles with intelligent analytics mechanisms to simulate a scalable digital crime management environment.
 
-🎓 4th Semester Software Engineering Project
-FAST NUCES – 2025
+🎓 **4th Semester Software Engineering Project**  
+FAST NUCES – 2025  
 
-🚨 Project Access Notice
+---
 
-The full source code for this project is maintained in a private repository.
+## 🚨 Project Access Notice
 
-If you are a recruiter, academic reviewer, or collaborator and would like access for evaluation purposes, please email:
+> ⚠️ The full source code for this project is maintained in a **private repository**.
 
-📧 mahnoornaveed2405@gmail.com
+If you are a recruiter, academic reviewer, or collaborator and would like access for evaluation purposes, please contact:
+
+📧 **mahnoornaveed2405@gmail.com**
 
 Access is granted upon request.
 
-🔍 Core Capabilities
-🔁 Two-Way Case Initiation
+---
 
-Public reports can be converted into formal cases, or officers can initiate cases directly.
+## 🔍 Core Capabilities
 
-🧠 Intelligent Case Analytics
+### 🔁 Two-Way Case Initiation
+- Convert public reports into formal FIR cases  
+- Officers can manually initiate new cases  
 
-Built-in logic enables:
+### 🧠 Intelligent Case Analytics
+- Crime wave detection  
+- Case similarity analysis  
+- Suspicious or fake report identification  
 
-Crime wave detection
-
-Case similarity analysis
-
-Suspicious or fake report identification
-
-📁 Multimedia Evidence Handling
-
+### 📁 Multimedia Evidence Handling
 Supports uploading and reviewing:
+- 📷 Images  
+- 📹 Videos  
+- 📄 PDFs  
+- 🔊 Audio files  
 
-Images
+### 👮 Role-Based Officer Management
+- Rank-based dashboards  
+- Case assignment authority  
+- Permission-controlled workflows  
 
-Videos
+### 📊 Crime Data Visualization
+Dynamic graphical insights including:
+- Crime type distribution  
+- Monthly trends  
+- Location-based hotspots  
+- Victim statistics  
 
-PDFs
+---
 
-Audio files
+## 👥 System Modules
 
-👮 Role-Based Officer Management
+### 👤 Public User Module
+- Account registration and login  
+- Anonymous reporting option  
+- Evidence and testimony submission  
+- Advanced case search filters  
+- Submission tracking and safety guidelines  
 
-Officer dashboards include:
+### 👮 Officer Module
+- Secure admin-controlled login  
+- Approve or reject reports  
+- Convert reports to FIRs  
+- Rank-based case assignment  
+- Suspect and victim profiling  
+- Case similarity detection  
+- Crime trend analytics  
+- Suspicious activity identification  
 
-Rank-based permissions
+---
 
-Case assignment authority
+## 🧠 Intelligence Engine Overview
 
-Controlled access features
+| Tool | Function |
+|------|----------|
+| Crime Wave Detection | Identifies abnormal crime spikes within time-location clusters |
+| Case Similarity Detection | Matches related cases using keywords, geography, and metadata |
+| Fake Report Detection | Flags logically inconsistent or duplicate submissions |
+| Crime Analytics Dashboard | Provides structured visual insights for decision support |
 
-📊 Crime Data Visualization
+---
 
-Dynamic visual representations of:
+## ⚙️ Technology Stack
 
-Crime type distribution
+| Layer | Technology |
+|-------|------------|
+| Frontend | C# (.NET Framework), WinForms |
+| Backend | ADO.NET |
+| Database | SQL Server |
+| Development Tools | Visual Studio, SSMS |
 
-Monthly trends
+---
 
-Location-based hotspots
+## 🎯 Project Objective
 
-Victim statistics
-
-👥 System Modules
-Public User Module
-
-Account registration and authentication
-
-Anonymous reporting options
-
-Evidence and testimony submission
-
-Case search with advanced filters
-
-Submission tracking and safety guidelines
-
-Officer Module
-
-Secure login via admin-controlled credentials
-
-Report approval and FIR conversion
-
-Rank-based case assignment
-
-Suspect and victim profiling
-
-Case similarity detection
-
-Crime trend analytics
-
-Suspicious activity identification
-
-🧠 Intelligence Engine Overview
-Tool	Function
-Crime Wave Detection	Identifies time-location clusters with abnormal crime spikes
-Case Similarity Detection	Matches related cases using keywords, victim count, and geography
-Fake Report Detection	Flags logically inconsistent or duplicate submissions
-Crime Analytics Dashboard	Provides structured visual insights for decision support
-⚙️ Technology Stack
-Layer	Technology
-Frontend	C# (.NET Framework), WinForms
-Backend	ADO.NET
-Database	SQL Server
-Development Tools	Visual Studio, SSMS
-🎯 Project Objective
-
-The goal of Intel Crime Nexus was to bridge traditional case management with data-driven intelligence mechanisms, introducing analytical decision support within a structured investigation system.
+The objective of Intel Crime Nexus was to integrate structured case management with intelligent data-driven decision support mechanisms.
 
 The system demonstrates:
 
-Database design implementation
+- Database design and normalization  
+- Role-based access control implementation  
+- Workflow modeling  
+- Desktop application architecture  
+- Integration of analytical logic into operational systems  
 
-Role-based access control
+---
 
-Workflow modeling
+## 👩‍💻 Development Team  
+**FAST NUCES – Software Engineering**
 
-Data analytics integration
+- Mahnoor Naveed  
+- Fatima Riaz  
+- Aliza Sharafat  
+- Rabia Saeed  
 
-Desktop application architecture
+---
 
-👩‍💻 Development Team
+## 📩 Contact
 
-FAST NUCES – Software Engineering
+**Mahnoor Naveed**  
+📧 mahnoornaveed2405@gmail.com  
+🔗 LinkedIn  
 
-Mahnoor Naveed
+---
 
-Fatima Riaz
-
-Aliza Sharafat
-
-Rabia Saeed
-
-📩 Contact
-
-Mahnoor Naveed
-📧 mahnoornaveed2405@gmail.com
-
-🔗 LinkedIn
-
-If this project aligns with your interests in data-driven system design, feel free to connect or request repository access.
+⭐ If this project aligns with your interests in intelligent system design and applied analytics, feel free to connect or request repository access.
